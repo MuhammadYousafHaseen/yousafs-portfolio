@@ -819,6 +819,10 @@ img{
     }
     .skills__title{
         font-size: var(--h3-font-size);
+        margin-top: 1rem;
+    }
+    .skills__items{
+        margin-top: 2rem;
     }
     .projects__container{
         grid-template-columns: repeat(3,368px);
